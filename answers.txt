@@ -1,4 +1,11 @@
 What is a gitignore file and what should it include for a Java project?
+its use for ignoring system-generated files and in java, this type of files should be ignored:  .project,*.jar, *.war, *.nar, *.ear, *.zip, *.tar.gz, *.rar, and Compiled class file like, *.class.
+
 What does fast-forward in Git mean?
+one directly add the test branch into the master branch.
+
 Why should you have different branches?
+because in project development,  there are multiple developers and they are doing different tasks at the same time so the multiple branches can help them organize.
+
 In a project how many remote Git repositories do you usually have?
+1
